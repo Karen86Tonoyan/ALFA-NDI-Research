@@ -1,3 +1,31 @@
+# ALFA NDI Research
+
+> **Research draft on Narrative Drift Injection and layered narrative defence**
+
+## Scope
+
+This repository contains prose research material, including files named
+`CHINA` and `Rushian`, rather than an executable implementation or benchmark
+runner. The retained document below presents Narrative Drift Injection (NDI)
+and a proposed Tonoyan Layered Narrative Defense Framework.
+
+## Reading notes
+
+- the content is a research draft and proposal, not a peer-reviewed standard;
+- threat descriptions and countermeasures require independent testing in the
+  target environment;
+- no software installation, API configuration or production deployment is
+  defined in the repository.
+
+## Status and reuse
+
+The repository is best treated as a conceptual starting point for research,
+review or future implementation. It does not establish performance, safety or
+security guarantees. There is no standalone licence file; obtain permission
+before republication or derivative use.
+
+---
+
 # ALFA-NDI-Research
 NDI ODKRYCIE 
 # 📄 NARRATIVE DRIFT INJECTION (NDI): A Novel Attack Vector in Large Language Model Security
